@@ -1,0 +1,6 @@
+C:\Users\schueler\Documents\GitHub\repository_Beshta\Beshta_HelloWorld\Beshta_HelloWorld\bin\Debug\Beshta_HelloWorld.exe.config
+C:\Users\schueler\Documents\GitHub\repository_Beshta\Beshta_HelloWorld\Beshta_HelloWorld\bin\Debug\Beshta_HelloWorld.exe
+C:\Users\schueler\Documents\GitHub\repository_Beshta\Beshta_HelloWorld\Beshta_HelloWorld\bin\Debug\Beshta_HelloWorld.pdb
+C:\Users\schueler\Documents\GitHub\repository_Beshta\Beshta_HelloWorld\Beshta_HelloWorld\obj\Debug\Beshta_HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\schueler\Documents\GitHub\repository_Beshta\Beshta_HelloWorld\Beshta_HelloWorld\obj\Debug\Beshta_HelloWorld.exe
+C:\Users\schueler\Documents\GitHub\repository_Beshta\Beshta_HelloWorld\Beshta_HelloWorld\obj\Debug\Beshta_HelloWorld.pdb
